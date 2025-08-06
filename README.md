@@ -1,12 +1,10 @@
 # Auto-On-Off-Latching-Power-Circuit
-A smart power-saving circuit that turns on your Arduino for 10 seconds when triggered by a push button or sound, then shuts itself off automatically with an LED indicator
+A smart power-saving circuit that turns on an Arduino for 10 seconds when triggered by a push button or sound, then shuts itself off automatically with an LED indicator.
 
 ## Table of Contents
 - [Components Used](#components-used)
 - [How It Works](#how-it-works)
-- [Circuit Diagram](#circuit-diagram)
-- [Arduino Code](#arduino-code)
-- [Demo Photo & Video](#demo-photo--video)
+- [Demo Video](#demo-video)
 - [Power Saving Feature](#power-saving-feature)
 - [Future Enhancements](#future-enhancements)
 
