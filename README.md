@@ -40,7 +40,7 @@ A smart power-saving circuit that turns on an Arduino for 10 seconds when trigge
 ## Demo Video
 showing how the circuit behaves:
 
-Push button or sound → LED ON → 10 sec → Auto power OFF)   
+Push button or sound → LED ON, Arduino ON → 10 sec → Auto power OFF)   
 
 
 https://github.com/user-attachments/assets/03936e4b-398f-4c0b-9084-c0037e7eaec4
