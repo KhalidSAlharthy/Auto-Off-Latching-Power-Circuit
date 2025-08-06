@@ -50,13 +50,15 @@ https://github.com/user-attachments/assets/03936e4b-398f-4c0b-9084-c0037e7eaec4
 ## Power Saving Feature
 
 This project saves power by:
-	•	Only turning ON when needed (sound or button trigger)
-	•	Running for a short, fixed time (10 seconds)
-	•	Automatically turning OFF using a MOSFET switch
+
+- Only turning ON when needed (sound or button trigger)
+- Running for a short, fixed time (10 seconds)
+- Automatically turning OFF using a MOSFET switch
 
 Ideal for battery-powered systems or sensor-based automation that only needs short bursts of activity.
 
 ## Future Enhancements
+
 - Show countdown on OLED display
 - Store last activation time in  EEPROM
 - Add relay for higher voltage loads
