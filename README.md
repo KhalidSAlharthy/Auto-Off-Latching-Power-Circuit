@@ -23,6 +23,7 @@ A smart power-saving circuit that turns on an Arduino for 10 seconds when trigge
 | 10kΩ Resistor        | 1        |
 | 1N4007 Diode         | 2        |
 | 9V Battery           | 1        |
+| Jumper wires         |          |
 
 ## How It Works
 
