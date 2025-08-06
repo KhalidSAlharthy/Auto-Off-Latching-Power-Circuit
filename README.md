@@ -58,6 +58,6 @@ This project saves power by:
 Ideal for battery-powered systems or sensor-based automation that only needs short bursts of activity.
 
 ## Future Enhancements
-	•	Show countdown on OLED display
-	•	Store last activation time in  EEPROM
-	•	Add relay for higher voltage loads
+- Show countdown on OLED display
+- Store last activation time in  EEPROM
+- Add relay for higher voltage loads
